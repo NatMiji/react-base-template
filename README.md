@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# THIS IS NATS BASE REACT TEMPLATE FILE
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
